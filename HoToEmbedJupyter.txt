@@ -1,0 +1,3 @@
+Method 1: Use Git Bash
+
+Method 2: https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/
